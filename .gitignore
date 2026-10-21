@@ -1,0 +1,15 @@
+.gitignore_folder/
+__pycache__
+.vscode
+.git
+.venv
+*.hof
+*.db
+*.ui*
+*pyproject*
+.qtcreator/
+converter.py
+build/
+dist/
+build.py
+*.spec
